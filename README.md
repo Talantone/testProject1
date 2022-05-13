@@ -9,6 +9,7 @@ This project is designed to display and edit user tasks.
 There are two ways to launch an application:
 Makefile and docker.
 To use the Makefile, you must have a Unix system. Just write 'make' in the project folder.
+The project runs in debug mode for the convenience of checking requestsю
 
 # requests and responses
 
